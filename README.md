@@ -11,3 +11,6 @@ Visit `localhost:8080` and you should see the sample running.
 
 ## Demo
 This demo also [available here online](http://raathigesh.com/dazzle).
+
+## Documentation for Dazzle Dashboard
+For full info, go to https://github.com/Raathigesh/Dazzle
